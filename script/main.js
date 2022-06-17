@@ -181,7 +181,7 @@ const animationTimeline = () => {
     )
     .staggerFromTo(
       ".baloons img",
-      2.5, {
+      1.3, {
         opacity: 0.9,
         y: 1400,
       }, {
